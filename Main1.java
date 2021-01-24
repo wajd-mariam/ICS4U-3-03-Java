@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2021
-*
 * This program uses binary search to find numbers inputted by the user.
 *
 * @author  Wajd Mariam
